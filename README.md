@@ -48,13 +48,9 @@ The data set contains the following diseases:
   - Create a CNN model, which can accurately detect 9 classes present in the dataset. While building the model rescale images to normalize pixel values between (0,1).
   - Choose an appropriate optimiser and loss function for model training
   - Train the model for ~30 epochs
-** Observations: **
-
+**Observations:**
 - In the model, actual and the predicted values are correct.Model is able to predict well.
-
-Model Accuracy:
-
-Validation Accuracy: 87%
-
-Traning Accuracy: 95%
+**Model Accuracy:**
+-Validation Accuracy: 87%
+-Traning Accuracy: 95%
 
