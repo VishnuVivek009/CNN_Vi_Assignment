@@ -51,6 +51,7 @@ The data set contains the following diseases:
     
 **Observations:**
 - In the model, actual and the predicted values are correct.Model is able to predict well.
+  
 **Model Accuracy:**
 -Validation Accuracy: 87%
 -Traning Accuracy: 95%
